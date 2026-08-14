@@ -11,10 +11,14 @@ runs.
 
 ### What I work with
 **Languages** C · C++ · Python
+
 **Embedded** ESP32 · ARM Cortex-M · FreeRTOS · bare-metal · SPI / I²C / UART
+
 **RF** LoRa (SX127x) · mesh routing · link budget & range testing
+
 **Hardware** KiCad/Altium · schematic capture · 2/4-layer PCB layout · DFM/BOM · bring-up
-**Tools** Git · GitHub Actions · oscilloscope · logic analyzer · JTAG/SWD · bench PSU
+
+**Tools** Git · oscilloscope · logic analyzer · JTAG/SWD · bench PSU
 
 ---
 
