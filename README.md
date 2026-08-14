@@ -5,7 +5,7 @@ Electronics & Computer Engineering Technology (Camosun College) with a B.Sc. in
 Kinesiology (McMaster University). I write embedded C/C++ close to the metal and design the boards it
 runs.
 
-📍 Ottawa, ON · 📧 you@email.com · [LinkedIn](...)
+📍 Ottawa, ON · 📧 a_huinink@hotmail.ca
 
 ---
 
